@@ -1,0 +1,6 @@
+[ignore]
+.*/dist/*
+.*/declarations/*
+.*/node_modules/*
+[libs]
+./declarations/
